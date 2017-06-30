@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidTestTask</string>
+
+    <string name="facebook_app_id">313703752375030</string>
+    <string name="fb_login_protocol_scheme">fb313703752375030</string>
+    <string name="city_name_edit_text_hint">Input city</string>
+    <string name="add_city_button_label">Add</string>
+
+</resources>
